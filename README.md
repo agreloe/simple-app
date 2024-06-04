@@ -1,5 +1,4 @@
-# Prueba Tecnica
-
+# Simple App
 ## Datos para el login
 Usuario: eve.holt@reqres.in
 Contraseña: cityslicka
